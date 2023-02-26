@@ -1,0 +1,92 @@
+header {
+  min-width: 10vh;
+}
+
+.active {
+  background-image: linear-gradient(to right, #f1d95d, #f3d129) !important;
+  color: #ffffff !important;
+  box-shadow: 0.2rem 0.2rem 0.4rem #1988dcaa;
+}
+
+header img {
+  width: 70px;
+  height: 50px;
+}
+
+header ul li a {
+  color: #f3d129 !important;
+}
+
+.banner {
+  background-image: linear-gradient(to right, #8e0505, #00a8a0, #004946);
+  padding: 0.5rem !important;
+  margin-top: 0.5rem;
+  color: rgb(244, 212, 8);
+  border-radius: 3rem;
+  box-shadow: 0.3rem 0.3rem 1rem #4a3e039e;
+}
+
+main {
+  min-width: 85vh;
+}
+
+.btn {
+  background-color: #b5190880;
+  color: #0c0c0c8c;
+  box-shadow: 0.3rem 0.3rem 0.6rem #a8b1b8;
+}
+
+.goto {
+  background-color: rgba(255, 0, 0, 0.377);
+  color: #0c0c0c8c;
+  box-shadow: 0.3rem 0.3rem 0.6rem #a8b1b8;
+}
+
+.card {
+  box-shadow: 0.2rem 0.2rem 0.4rem #a8b1b8;
+}
+
+.form {
+  width: 100%;
+}
+
+footer {
+  min-width: 5vh;
+  background-color: darksalmon;
+}
+
+.img {
+  width: 80px;
+  height: 50px;
+}
+
+.titulo {
+  background-color: #8e0505 !important;
+  font-size: large;
+  font-weight: 900;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.665);
+}
+
+table,
+th,
+td {
+  color: #4300f9;
+  margin-top: 1rem;
+  border: 2px solid #fd06066b !important;
+  background-color: rgba(128, 128, 128, 0.529);
+}
+
+td {
+  font-size: 2vh;
+}
+
+footer img {
+  width: 30px;
+  height: 24px;
+}
+
+footer h3 {
+  padding: 3px;
+  margin: 10px;
+}
